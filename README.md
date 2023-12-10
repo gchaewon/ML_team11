@@ -29,6 +29,8 @@ ML_team11 파일 내부의 preprocess.ipynb 파일을 열어 ipynb 파일 cell �
 
 ```model_tranning.ipynb```:  모델 학습 및 정확도 실험 
 
+```model_outlier_removal.ipynb```: 데이터 이상치 제거 실험
+
 ```experiment_open_multi.ipynb``` : open world의 multiclassification 환경 모델 튜닝 & 평가 실험
 
 ```experiment_open_bi.ipynb```: open world의 binary classification 모델 튜닝 & 평가 실험
