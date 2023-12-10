@@ -1,5 +1,7 @@
-# ML_team11
-Machine Learning (01) team 11 Team project
+# ML_final project
+[presentation_material](https://drive.google.com/file/d/1Wmk_NQQ6-3M3g4cU-ypfDbQ2yhRM_tpO/view?usp=sharing)
+
+Machine Learning (01) team#11 Numpie🥧 
 
 colab 런타임 오류로 인해서 data preprocessing 과정은 local laptop (RAM 16GB) 환경에서 진행하였습니다.
 
