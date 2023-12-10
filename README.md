@@ -1,7 +1,8 @@
 # ML_team11
 Machine Learning (01) team 11 Team project
 
-olab 런타임 오류로 인해서 data preprocessing 과정은 local laptop (RAM 16GB) 환경에서 진행하였습니다.
+colab 런타임 오류로 인해서 data preprocessing 과정은 local laptop (RAM 16GB) 환경에서 진행하였습니다.
+
 이후 전처리를 거친 데이터를 csv 파일로 저장하여, 다른 실험에 사용하였습니다. 
 
 preprocess.ipynb 파일만 다운로드 받아서 수행해주세요. 
