@@ -12,14 +12,15 @@ preprocess을 제외한 다른 실험 노트북 파일은 colab 환경에서 수
 
 ### 1. preprocessing branch > preprocess.ipynb
 
-Bash terminal
+Bash terminal을 열고 아래 명령어를 실행
 ```
-cd Desktop
+cd Desktop #개인 배경화면 폴더로 이동
 git clone -b preprocessing --single-branch https://github.com/gchaewon/ML_team11.git
 cd ML_team11
-ML_team11 파일 내부의 preprocess.ipynb 파일을 열어 실행
 
-``` 
+```
+ML_team11 파일 내부의 preprocess.ipynb 파일을 열어 ipynb 파일 cell 실행
+
 ### 2. Main brach
 각 파일을 클릭 > open in colab 클릭  colab에서 실행 가능 
 
