@@ -29,7 +29,7 @@ ML_team11 파일 내부의 preprocess.ipynb 파일을 열어 ipynb 파일 cell �
 
 ```preprocess.ipynb```:  데이터 전처리 (결과 포함, colab 실행 X)
 
-```model_tranning.ipynb```:  모델 학습 및 정확도 실험 
+```model_training.ipynb```:  모델 학습 및 정확도 실험 
 
 ```model_outlier_removal.ipynb```: 데이터 이상치 제거 실험
 
